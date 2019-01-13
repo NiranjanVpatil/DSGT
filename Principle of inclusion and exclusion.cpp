@@ -1,9 +1,11 @@
-//Title : Write a program to implement the principle of inclusion and exclusion for deciding the eligibility of students for placement.
-//Rol No :SCSB307.
-//Name : Niranjan vinod Patil.
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
+// Title : Write a program to implement the principle of inclusion and exclusion for deciding the eligibility of students for placement.
+// Name : Niranjan vinod Patil.
+//-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 #include<iostream>
 using namespace std;
+
 int main()
 {
 	int ch;
