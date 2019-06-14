@@ -37,7 +37,7 @@ int main()
      // LCM is smallest number that divides both 
      // 15 = 5*3
      // 25 = 5*5
-     // GCD = common multiplication = 5
+     // GCD(HCF)= common multiplication = 5
      // LCM = union of all factor = 5*3*5
      lcm = p / gcd;
      
